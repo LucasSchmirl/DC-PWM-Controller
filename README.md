@@ -10,20 +10,21 @@ It uses a 18V 4000mAh Bosch professional Li-Ion Battery.
 - 1 x [Bosch professional Battery](https://www.amazon.de/Bosch-Professional-Akkuspannung-Akkukapazit%C3%A4t-Gewicht/dp/B00IKI352E/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-3).
 - 1 x [Bosch Akku adapter](https://www.amazon.de/QUPERR-Akku-Adapter-USB-Ladeger%C3%A4t-Dual-USB-Handy-Ladeger%C3%A4t-Adapter-Schnellladung%EF%BC%88Nur/dp/B0CLLKGNL8/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-3).
 - 1 x [Emergency stop button](https://www.amazon.de/dp/B08ZS8HZYV).
-- 1 x [M2.5 x 6mm flat head screw](https://www.amazon.de/gp/product/B0876V2LGC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)(Battery cover).
-- 1 x [Heat insert M2.5](https://www.amazon.de/gp/product/B07SYP6PRJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
-- 1 x [M3 x 4mm flat head screw](https://www.amazon.de/gp/product/B09Y2SDQKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8)(Main case connection).
-- 1 x [Heat insert M3](https://www.amazon.de/Gewindeeinsatz-Einpressmutter-Gewindebuchsen-Kunststoff-Box-Kunststoffteiledurch/dp/B09B7F2XM3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 2 x [Cable grommet M5](https://www.amazon.de/Durchgangst%C3%BCllen-Kabeldurchf%C3%BChrung-Gummidichtungsset-Gummistopfen-Elektroinstallation/dp/B0B5DLWVZ2/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 7 x [M6 x 16mm Inbus Innensechskant](https://www.amazon.de/SECCARO-Zylinderschraube-Edelstahl-Innensechskant-St%C3%BCck/dp/B00I20HLCK/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 7 x [M6 Hammerkopfmutter](https://www.amazon.de/Bikasun-Hammerkopfmutter-Kohlenstoffstahl-Aluminiumprofil-Extrusionsschlitz/dp/B0CN2HDJ54/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 1 x [M8 x 25mm Inbus Innensechskant](https://www.amazon.de/SECCARO-Zylinderschraube-Edelstahl-Innensechskant-St%C3%BCck/dp/B09PDXP13G/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 3 x [M5 x 20mm Inbus Innensechskant](https://www.amazon.de/Zylinderschrauben-mit-Innensechskant-Vollgewinde-Zylinderkopfschrauben/dp/B01H9M294G/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-7).
+- 3 x [Heat insert M5](https://www.amazon.de/Gewindeeinsatz-Einpressmutter-Gewindebuchsen-Kunststoff-Box-Kunststoffteiledurch/dp/B09B7F2XM3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
+- 8 x [M3 x 10mm flat head screw](https://www.amazon.de/gp/product/B09Y2SDQKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8).
+- 8 x [Heat insert M3](https://www.amazon.de/Gewindeeinsatz-Einpressmutter-Gewindebuchsen-Kunststoff-Box-Kunststoffteiledurch/dp/B09B7F2XM3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
 
 These are some screws and parts of the product:
 ![screws and parts](Standbohrmaschine_pics/screws_and_parts.jpg)
 
 ## Scematic
-See also Frizzing [file](scematic.fzz):
-![wiring scematic](KeinLabor_Netzteil_pics/scematic.png)
+Battery to switch (live wire in series) to PWM-Controller to Motor.
 
-Wired view of the product:
-![Wired view of the product](KeinLabor_Netzteil_pics/wiredView.jpg)
 
 ## Product demonstration
 This is the CAD-view from the outside:
