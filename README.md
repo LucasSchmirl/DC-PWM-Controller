@@ -2,6 +2,11 @@
 This device is an adjustable (0-100%) PWM-DC motor controller.
 It uses a 18V 4000mAh Bosch professional Li-Ion Battery.
 
+## Product demonstration
+This is the CAD-view from the outside:
+
+![CAD-view of the product (outside)](Standbohrmaschine_pics/CAD.png)
+
 ## The following components are used:
 - All custom parts are printed with [CF-PLA](https://www.amazon.de/dp/B0CH36F58Y) and [PLA+](https://www.amazon.de/dp/B07FQDKR28).
 - To wire all connections, this [cable](https://www.amazon.de/dp/B0BMC9K9P4) was used.
@@ -24,13 +29,6 @@ These are some screws and parts of the product:
 
 ## Scematic
 Battery to switch (live wire in series) to PWM-Controller to Motor.
-
-
-## Product demonstration
-This is the CAD-view from the outside:
-
-![CAD-view of the product (outside)](Standbohrmaschine_pics/CAD.png)
-
 
 This is the product from the front:
 
