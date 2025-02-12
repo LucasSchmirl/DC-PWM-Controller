@@ -5,6 +5,7 @@ It uses a 18V 4000mAh Bosch professional Li-Ion Battery.
 ## The following components are used:
 - All custom parts are printed with [CF-PLA](https://www.amazon.de/dp/B0CH36F58Y) and [PLA+](https://www.amazon.de/dp/B07FQDKR28).
 - To wire all connections, this [cable](https://www.amazon.de/dp/B0BMC9K9P4) was used.
+- 1 x [PWM Controller](https://www.amazon.de/Motordrehzahlregler-Binghe-einstellbare-Numerische-DC-Motoren/dp/B0DKJ2BG5K/ref=sr_1_48?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-48).
 - 1 x [200mm Alu profil 30x30](https://www.amazon.de/Alu-Profil-St%C3%BCck-30x30mm-200mm-Konstruktionsprofil/dp/B08H1JNS8N/ref=sr_1_7?sr=8-7).
 - 1 x [Bosch professional Battery](https://www.amazon.de/Bosch-Professional-Akkuspannung-Akkukapazit%C3%A4t-Gewicht/dp/B00IKI352E/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-3).
 - 1 x [Bosch Akku adapter](https://www.amazon.de/QUPERR-Akku-Adapter-USB-Ladeger%C3%A4t-Dual-USB-Handy-Ladeger%C3%A4t-Adapter-Schnellladung%EF%BC%88Nur/dp/B0CLLKGNL8/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-3).
@@ -27,10 +28,10 @@ Wired view of the product:
 ## Product demonstration
 This is the CAD-view from the outside:
 
-![CAD-view of the product (outside)](KeinLabor_Netzteil_pics/CAD_1.png)
+![CAD-view of the product (outside)](Standbohrmaschine_pics/CAD.png)
 
 
-This is the CAD-view from the front:
+This is the product from the front:
 
 ![CAD-view of the product (front)](Standbohrmaschine_pics/Demo_front.jpg)
 
